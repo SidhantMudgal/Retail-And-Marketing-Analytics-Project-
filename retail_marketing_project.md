@@ -1,5 +1,5 @@
 # 🛍️ RETAIL & MARKETING ANALYTICS PROJECT
-## End-to-End Data Analytics Project for Students
+## End-to-End Data Analytics Project 
 
 ---
 
@@ -28,22 +28,14 @@
 
 ### **Domain:** Retail, E-commerce, Marketing Analytics
 
-### **Target Roles:** 
-- Marketing Analyst
-- Business Intelligence Analyst
-- Data Analyst
-- Retail Analytics Specialist
-
 ### **Project Duration:** 3-4 Weeks
 
 ### **Difficulty Level:** Intermediate to Advanced
 
----
-
 ## 2. BUSINESS CONTEXT
 
 ### **Scenario:**
-You are a **Marketing Analyst** at a multi-channel retail company that sells various products across different regions. The company has been experiencing:
+You are a **Business Analyst** at a multi-channel retail company that sells various products across different regions. The company has been experiencing:
 - Declining customer retention rates
 - Inconsistent sales performance across product categories
 - Inefficient marketing spend
