@@ -4,8 +4,8 @@
 """
 Project: Retail & Marketing Analytics - Customer Segmentation & Sales Optimization
 Notebook: 04 - Customer Segmentation and Advanced Analytics
-Author: [Your Name]
-Date: [Current Date]
+Author: [Sidhant Mudgal]
+Date: [5/04/2026]
 
 Objective:
 - RFM Analysis (Recency, Frequency, Monetary)
