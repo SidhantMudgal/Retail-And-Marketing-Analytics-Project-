@@ -4,8 +4,8 @@
 """
 Project: Retail & Marketing Analytics - Customer Segmentation & Sales Optimization
 Notebook: 05 - KPI Design and Dashboard Preparation
-Author: [Your Name]
-Date: [Current Date]
+Author: [Sidhant Mudgal]
+Date: [5/04/2026]
 
 Objective:
 - Design comprehensive KPI framework
