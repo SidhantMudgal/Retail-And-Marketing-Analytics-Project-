@@ -4,8 +4,8 @@
 """
 Project: Retail & Marketing Analytics - Customer Segmentation & Sales Optimization
 Notebook: 03 - Exploratory Data Analysis (EDA)
-Author: [Your Name]
-Date: [Current Date]
+Author: [Sidhant Mudgal]
+Date: [5/04/2026]
 
 Objective:
 - Univariate analysis
