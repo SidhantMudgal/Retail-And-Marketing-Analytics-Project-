@@ -76,7 +76,7 @@ The executive team needs data-driven insights to:
   - scipy (statistical analysis)
 
 ### **Dashboard Tools:**
-- **Power BI** (Primary - recommended for students)
+- **Power BI** 
 - **Tableau Public** (Alternative)
 - **Python Dash** (For interactive web apps)
 
