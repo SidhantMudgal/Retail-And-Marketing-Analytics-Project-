@@ -4,8 +4,8 @@
 """
 Project: Retail & Marketing Analytics - Customer Segmentation & Sales Optimization
 Notebook: 02 - Data Cleaning and Preprocessing
-Author: [Your Name]
-Date: [Current Date]
+Author: [Sidhant Mudgal]
+Date: [5/04/2026]
 
 Objective:
 - Handle missing values
