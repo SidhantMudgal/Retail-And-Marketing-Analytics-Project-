@@ -29,11 +29,7 @@
 ### **Domain:** Retail, E-commerce, Marketing Analytics
 
 ### **Project Duration:** 3-4 Weeks
-
-### **Difficulty Level:** Intermediate to Advanced
-
 ---
-
 ## 2. BUSINESS CONTEXT
 
 ### **Scenario:**
