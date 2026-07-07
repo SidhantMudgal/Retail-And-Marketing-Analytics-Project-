@@ -1599,13 +1599,7 @@ python dashboards/dash_app.py
 ## 📝 Project Report
 Full project documentation available in `docs/project_report.pdf`
 
-## 👨‍💻 Author
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 📄 License
+# 📄 License
 This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 🙏 Acknowledgments
