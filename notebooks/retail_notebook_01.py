@@ -4,7 +4,7 @@
 """
 Project: Retail & Marketing Analytics - Customer Segmentation & Sales Optimization
 Notebook: 01 - Data Acquisition and Setup
-Author: [Sidhant Mudgal]
+Author: [Sidhant Mudgal}
 Date: [5/04/2026]
 
 Objective:
