@@ -1,6 +1,6 @@
 <div align="center">
 
-# Retail & Marketing Analytics
+# 🛍️ Retail & Marketing Analytics
 
 ### Customer segmentation and growth strategy for retail transaction data
 
